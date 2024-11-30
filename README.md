@@ -1,2 +1,0 @@
-# Nudging comfort in the built environment: Using smartwatch-based Just-in-time Adaptive Interventions (JITAI) for mitigating urban-scale heat and noise
-Public repository for the paper titled 'Nudging comfort in the built environment: Using smartwatch-based Just-in-time Adaptive Interventions (JITAI) for mitigating urban-scale heat and noise' using Cozie-Apple data collected during the orenth and usk experiments. In the paper, orenth is referred to as 'phase 1', and usk is referred to as 'phase 2'.

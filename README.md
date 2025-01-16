@@ -1,6 +1,6 @@
-## Make yourself comfortable: Using smartwatch-based Just-in-time Adaptive Interventions (JITAI) for mitigating urban-scale heat and noise
+## Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)
 
-Public repository for the paper titled **'Make yourself comfortable: Using smartwatch-based Just-in-time Adaptive Interventions (JITAI) for mitigating urban-scale heat and noise'** using Cozie-Apple data collected during the `orenth` and `usk` experiments. In the paper, `orenth` is referred to as 'phase 1', and `usk` is referred to as 'phase 2'.
+Public repository for the paper titled **Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)** using Cozie-Apple data collected during the `orenth` and `usk` experiments. In the paper, `orenth` is referred to as 'Phase 1', and `usk` is referred to as 'Phase 2'.
 
 ## Requirements
 
